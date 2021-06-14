@@ -1,4 +1,4 @@
-name: Build LEDE ghl-r-001-f
+name: LEDE ghl-r-001-f
 
 on:
   push:
